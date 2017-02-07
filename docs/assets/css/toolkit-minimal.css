@@ -8256,7 +8256,7 @@ fieldset[disabled] .block-inverse .btn-outline.btn-default.active {
 }
 .h1.block-title,
 h1.block-title {
-  font-size: 36px;
+  font-size: 56px;
   line-height: 1;
 }
 .block .lead {
@@ -8328,7 +8328,7 @@ h1.block-title {
   }
   .h1.block-title,
   h1.block-title {
-    font-size: 64px;
+    font-size: 72px;
   }
 }
 .navbar-transparent {
