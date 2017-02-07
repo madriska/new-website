@@ -23,6 +23,10 @@
 .app-block-intro {
   padding-top: 20px;
 }
+.app-block-intro img {
+  width: 80%;
+  margin-bottom: -45%;
+}
 
 /* block img */
 .app-block-game img,
